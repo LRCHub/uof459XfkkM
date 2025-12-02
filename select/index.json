@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "If I Die Tomorrow",
+  "base_artist": "Chloe Adams",
+  "createdAt": "2025-12-02T21:57:00.294945Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "If I Die Tomorrow",
+      "artist": "Mötley Crüe",
+      "has_synced": true,
+      "path": "select/01_If_I_Die_Tomorrow_Mötley_Crüe.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "If I Die Tomorrow",
+      "artist": "Beenzino",
+      "has_synced": true,
+      "path": "select/02_If_I_Die_Tomorrow_Beenzino.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "If I Die Tomorrow",
+      "artist": "Jack White",
+      "has_synced": true,
+      "path": "select/03_If_I_Die_Tomorrow_Jack_White.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "if i die tomorrow",
+      "artist": "mötley crüe",
+      "has_synced": true,
+      "path": "select/04_if_i_die_tomorrow_mötley_crüe.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "If I Die Tomorrow",
+      "artist": "Matt Force",
+      "has_synced": true,
+      "path": "select/05_If_I_Die_Tomorrow_Matt_Force.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "If I Die Tomorrow",
+      "artist": "Mötley Crüe",
+      "has_synced": true,
+      "path": "select/06_If_I_Die_Tomorrow_Mötley_Crüe.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "If I Die Tomorrow",
+      "artist": "Mötley Crüe",
+      "has_synced": true,
+      "path": "select/07_If_I_Die_Tomorrow_Mötley_Crüe.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "If I Die Tomorrow",
+      "artist": "Jack White",
+      "has_synced": true,
+      "path": "select/08_If_I_Die_Tomorrow_Jack_White.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "If I Die Tomorrow",
+      "artist": "Motley Crue",
+      "has_synced": true,
+      "path": "select/09_If_I_Die_Tomorrow_Motley_Crue.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "If I Die Tomorrow",
+      "artist": "Far East Movement",
+      "has_synced": true,
+      "path": "select/10_If_I_Die_Tomorrow_Far_East_Movement.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "If I Die Tomorrow",
+      "artist": "빈지노",
+      "has_synced": true,
+      "path": "select/11_If_I_Die_Tomorrow_빈지노.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "If I Die Tomorrow",
+      "artist": "Beenzino",
+      "has_synced": true,
+      "path": "select/12_If_I_Die_Tomorrow_Beenzino.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "If I Die Tomorrow",
+      "artist": "illneas",
+      "has_synced": false,
+      "path": "select/13_If_I_Die_Tomorrow_illneas.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "If I Die, Tomorrow",
+      "artist": "周震南",
+      "has_synced": true,
+      "path": "select/14_If_I_Die,_Tomorrow_周震南.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "If I Die Tomorrow",
+      "artist": "Jack White",
+      "has_synced": true,
+      "path": "select/15_If_I_Die_Tomorrow_Jack_White.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "If I Die Tomorrow",
+      "artist": "Chloe Adams",
+      "has_synced": false,
+      "path": "select/pl_01_If_I_Die_Tomorrow_Chloe_Adams.txt"
+    }
+  ]
+}
